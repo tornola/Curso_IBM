@@ -9,6 +9,7 @@ import java.util.Arrays;
 public class MenuNotas {
 	
 	//fdffffffffffffffffffffffffffffffffffffffffff
+	//erererer
 
 	static BufferedReader introduceNotas = new BufferedReader(new InputStreamReader(System.in));
 	static String[] menu = {"1. Introduce nota", "2. Nota Media" , "3. Mostrar Extremas", "4. Mostrar todas", "5. Salir"};
